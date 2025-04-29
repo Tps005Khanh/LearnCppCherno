@@ -1,0 +1,1 @@
+const char* LogCommand(const char* message);
